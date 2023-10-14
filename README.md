@@ -2,10 +2,11 @@
 
 <img align = "right" widht = "400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="shivamsprajapati13" />
 
-<p align="justify">My name is <b>Shivam Prajapati.</b> I have completed my Bachelors of Engineering from <b>Shah and Anchor Kutchhi Engineering College</b> with CGPA of 9.46. During my 4 years of Engineering I started working as Intern as Website Developer at Creative Finserve Pvt. Ltd.Then I worked on College inhouse project Feedback Development System, where  I worked with the backend team. We made all the automation of the feedback process. I was also the backend co-lead for my college Virtual Lab. This virtual lab was for first year of engineering students. Then I worked as Software Developer at Surface Modifications Technologies where we automated the process of measuring the dimensions of tools using computer vision. I was also the part of <b>Smart India Hackathon 2022</b>, Software Edition, where my team made it to grand finale. In the team my role was of AI developer. I have also participated in <b>Data Mining Cup 2022, Germany</b>. My team secured second position in India and 21st position worldwide. </p>
+<p align="justify">I'm Shivam Prajapati, a B.E. graduate from Shah and Anchor Kutchhi Engineering College with a 9.46 CGPA. During my studies, I interned as a Website Developer at Creative Finserve Pvt. Ltd. I also worked on automating feedback processes for my college's in-house project. As the backend co-lead, I contributed to a virtual lab for first-year engineering students. I later joined Surface Modifications Technologies as a Software Developer, where I automated tool dimension measurement using computer vision. I was an AI developer in a team that reached the grand finale of the Smart India Hackathon 2022, Software Edition. Additionally, my team secured the 2nd position in India and 21st worldwide in the Data Mining Cup 2022, Germany.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsprajapati13&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsprajapati13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsprajapati13&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsprajapati13" /> </p
 
+<br><br>
 <h3 align="center"><b>Languages and Tools 🛠</b></h3>
 
 <p align="center">
