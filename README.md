@@ -1,3 +1,4 @@
+[![Social banner for Shivam](https://github.com/shivamsprajapati13/shivamsprajapati13/blob/main/Background%20Github.png)](https://shivamprajapati.netlify.app/)
 <p align="center">
   <samp>
     Hi, I'm Shivam! 👋 <br>
